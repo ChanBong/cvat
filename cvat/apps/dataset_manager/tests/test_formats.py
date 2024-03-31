@@ -296,6 +296,7 @@ class TaskExportTest(_DbTestBase):
             'PASCAL VOC 1.1',
             'Segmentation mask 1.1',
             'YOLO 1.1',
+            'YOLOv8 1.0'
             'ImageNet 1.0',
             'CamVid 1.0',
             'WiderFace 1.0',
@@ -326,6 +327,7 @@ class TaskExportTest(_DbTestBase):
             'PASCAL VOC 1.1',
             'Segmentation mask 1.1',
             'YOLO 1.1',
+            'YOLOv8 1.0',
             'ImageNet 1.0',
             'CamVid 1.0',
             'WiderFace 1.0',
@@ -380,6 +382,7 @@ class TaskExportTest(_DbTestBase):
             ('PASCAL VOC 1.1', 'voc'),
             ('Segmentation mask 1.1', 'voc'),
             ('YOLO 1.1', 'yolo'),
+            ('YOLOv8 1.0', 'yolov8'),
             ('ImageNet 1.0', 'imagenet_txt'),
             ('CamVid 1.0', 'camvid'),
             ('WiderFace 1.0', 'wider_face'),

@@ -105,6 +105,7 @@ import cvat.apps.dataset_manager.formats.mot
 import cvat.apps.dataset_manager.formats.mots
 import cvat.apps.dataset_manager.formats.pascal_voc
 import cvat.apps.dataset_manager.formats.yolo
+import cvat.apps.dataset_manager.formats.yolov8
 import cvat.apps.dataset_manager.formats.imagenet
 import cvat.apps.dataset_manager.formats.camvid
 import cvat.apps.dataset_manager.formats.widerface
